@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to use [angr](https://github.com/angr/angr) to perform symbolic execution in finding vulnerabilities in Iot firmwares.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :sending email to cascades@sjtu.edu.cn open a issue to contact us on github.
+- 📓 You can browse our [official blog](https://misl-sjtu.github.io/Blog/) for group meeting record and more info.  
 
 <!---
 MISL-SJTU/MISL-SJTU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
